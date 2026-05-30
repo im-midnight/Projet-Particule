@@ -1,5 +1,16 @@
 # Projet Particules
 
+Bienvenue dans mon projet de But Informatque. Ce projet vise à mettre en place un système de particules. Il s’agit d’un
+outil fréquemment utilisé dans les jeux vidéos, les logiciels de 3D, les effets spéciaux pour le cinéma, etc. Un
+tel système permet de simuler graphiquement des effets complexes à représenter : explosions, feu, pluie, et bien
+d’autres. En général, les systèmes de particules sont utilisés en trois dimensions, cependant, pour simplifier, celui
+que j'ai développer sera en deux dimensions.
+
+## Comment jouer ?
+1. Allez dans l'onglet **[Releases](https://github.com/im-midnight/Mario_Maker-Python/releases/tag/v1.0)** sur GitHub.
+2. Téléchargez le fichier `Mario_Maker.zip`.
+3. Faites un clic droit sur le fichier et choisissez **Extraire tout**.
+4. Lancez l'application nommée `programme_principal.exe`.
 SAE particules en Go - PHOMASONE KEVIN et  KERLOCH NOE
 
 ## Structure Principale du Projet
