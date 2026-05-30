@@ -1,4 +1,4 @@
-# Projet Particules
+# SAE particules en Go - PHOMASONE KEVIN et  KERLOCH NOE
 
 Bienvenue dans mon projet de But Informatque. Ce projet vise à mettre en place un système de particules. Il s’agit d’un
 outil fréquemment utilisé dans les jeux vidéos, les logiciels de 3D, les effets spéciaux pour le cinéma, etc. Un
@@ -12,7 +12,6 @@ que j'ai développer sera en deux dimensions.
 3. Allez dans Projet-Particule\projet-particules\src
 4. Lancez l'application nommée `projet-paritcles`.
    
-SAE particules en Go - PHOMASONE KEVIN et  KERLOCH NOE
 ## Structure Principale du Projet
 ```
 src/
