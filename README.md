@@ -1,7 +1,17 @@
-# Projet Particules
+# SAE particules en Go - PHOMASONE KEVIN et  KERLOCH NOE
 
-SAE particules en Go - PHOMASONE KEVIN et  KERLOCH NOE
+Bienvenue dans mon projet de But Informatque. Ce projet vise à mettre en place un système de particules. Il s’agit d’un
+outil fréquemment utilisé dans les jeux vidéos, les logiciels de 3D, les effets spéciaux pour le cinéma, etc. Un
+tel système permet de simuler graphiquement des effets complexes à représenter : explosions, feu, pluie, et bien
+d’autres. En général, les systèmes de particules sont utilisés en trois dimensions, cependant, pour simplifier, celui
+que j'ai développer sera en deux dimensions.
 
+## Comment jouer ?
+1. Téléchargez le fichier ce git.
+2. Faites un clic droit sur le git telécharger et choisissez **Extraire tout**.
+3. Allez dans Projet-Particule\projet-particules\src
+4. Lancez l'application nommée `projet-paritcles`.
+   
 ## Structure Principale du Projet
 ```
 src/
