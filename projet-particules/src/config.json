@@ -1,7 +1,7 @@
 {
 	"WindowTitle": "Project particles",
-	"WindowSizeX": 1920,
-    "WindowSizeY": 1080,
+	"WindowSizeX": 1000,
+    "WindowSizeY": 700,
 	"ParticleImage": "assets/particle.png",
 	"Debug": true,
 	"InitNumParticles": 4,
